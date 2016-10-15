@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entity.cs" />
-    <Compile Include="GPoint.cs" />
+    <Compile Include="GVec2.cs" />
     <Compile Include="GRect.cs" />
     <Compile Include="Helper.cs" />
     <Compile Include="GameTimer.cs" />
